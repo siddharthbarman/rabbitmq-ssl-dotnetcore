@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sender": {
+      "commandName": "Project",
+      "commandLineArgs": "demo hello"
+    }
+  }
+}
